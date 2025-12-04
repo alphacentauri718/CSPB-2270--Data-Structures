@@ -132,6 +132,7 @@ int knapsack_with_memo(vector<int> prices, vector<int> weights, int capacity){
             // base case 1: capacity is zero
             if (j == 0){
                 matrix[i][j] = 0;
+                // we add the value "0" to matrix2 if we want to leave, and "1" if we want to keep
                 matrix2[i][j] = 0;
                 continue;
             }
