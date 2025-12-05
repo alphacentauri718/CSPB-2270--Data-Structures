@@ -3,10 +3,13 @@
 int main() {
 
     // Initialization -- EDIT here for experimentation
-    int capacity = 50;
-    std::vector<int> weights = {10, 20, 30};
-    std::vector<int> prices = {60, 100, 120};
+    int capacity = 200;
+    std::vector<int> weights = {10, 20, 30, 40, 50, 60, 70};
+    std::vector<int> prices = {60, 100, 120, 140, 160, 180, 200 };
 
+    std::cout<< "Number of items: " << weights.size() << std::endl;
+    std::cout<< "Weight limit: " << capacity << std::endl;
+    std::cout << std::endl;
     // Greedy algorithm
     auto start = high_resolution_clock::now();
     greedy(prices, weights, capacity); 
