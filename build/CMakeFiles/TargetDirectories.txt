@@ -1,3 +1,0 @@
-C:/Users/Rahul/Desktop/Classwork/CSPB 2270- Data Structures/build/CMakeFiles/finalproject.dir
-C:/Users/Rahul/Desktop/Classwork/CSPB 2270- Data Structures/build/CMakeFiles/edit_cache.dir
-C:/Users/Rahul/Desktop/Classwork/CSPB 2270- Data Structures/build/CMakeFiles/rebuild_cache.dir
