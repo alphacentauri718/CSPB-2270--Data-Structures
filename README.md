@@ -78,6 +78,9 @@ You can edit the main.cpp file and edit the prices and weights arrays. Each item
 The main.cpp file can run the 3 algorithms (Greedy, Knapsack, Knapsack with Memoization) and clock how fast they run, so you can compare solutions and speed. The default prices and weights
 are a table that trick the greedy algorithm into accepting an inferior solution. The functions output everything to console. Try them with different inputs but caveat-- The price and weights
 vector lengths must be equal and you can't use repeat values (2 prices are the same or 2 weights are the same) or you will get incorrect results.
+
+<img width="852" height="329" alt="image" src="https://github.com/user-attachments/assets/d6fdb11b-fa91-4788-8c98-c9199b696b5a" />
+
 ## Testing
 Just change the prices and weights vectors in the main.cpp file and build and run. Everything is outputted to console.
 ## References
