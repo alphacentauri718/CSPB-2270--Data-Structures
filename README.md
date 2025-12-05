@@ -79,7 +79,8 @@ The main.cpp file can run the 3 algorithms (Greedy, Knapsack, Knapsack with Memo
 are a table that trick the greedy algorithm into accepting an inferior solution. The functions output everything to console. Try them with different inputs but caveat-- The price and weights
 vector lengths must be equal and you can't use repeat values (2 prices are the same or 2 weights are the same) or you will get incorrect results.
 
-<img width="852" height="329" alt="image" src="https://github.com/user-attachments/assets/d6fdb11b-fa91-4788-8c98-c9199b696b5a" />
+<img width="857" height="388" alt="image" src="https://github.com/user-attachments/assets/a7425648-8615-4045-b0d2-884cfde30b11" />
+
 
 ## Testing
 Just change the prices and weights vectors in the main.cpp file and build and run. Everything is outputted to console.
